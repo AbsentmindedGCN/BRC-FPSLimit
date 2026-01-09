@@ -1,6 +1,12 @@
-# Score Attack Plugin
+# FPS Limit
 
-This is an example project built off [CommonAPI](https://github.com/LazyDuchess/BRC-CommonAPI) and [CommonAPI-Sample](https://github.com/LazyDuchess/BRC-CommonAPI-Sample). I take absolutely no credit for the work.
+This is a lightweight mod that allows the user to limit their FPS from an external config file, editable through r2modman.
+The plugin is handy for speedrunners as the stable FPS makes tricks more consistent and the plugin comes without any unnecessary features.
+
+## How to Use
+
+Install the mod via Thunderstore or r2modman itself, then boot the game once to generate the config file.
+Default FPS limit is 120, but it can be changed to whatever value you wish.
 
 
 ## Building
